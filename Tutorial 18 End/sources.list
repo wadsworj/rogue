@@ -1,0 +1,15 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 6.0.10 _Squeeze_ - Official amd64 NETINST Binary-1 20140719-18:59]/ squeeze main
+
+#deb cdrom:[Debian GNU/Linux 6.0.10 _Squeeze_ - Official amd64 NETINST Binary-1 20140719-18:59]/ squeeze main
+
+deb http://ftp3.nrc.ca/debian/ squeeze main
+deb-src http://ftp3.nrc.ca/debian/ squeeze main
+
+deb http://security.debian.org/ squeeze/updates main
+deb-src http://security.debian.org/ squeeze/updates main
+
+# squeeze-updates, previously known as 'volatile'
+deb http://ftp3.nrc.ca/debian/ squeeze-updates main
+deb-src http://ftp3.nrc.ca/debian/ squeeze-updates main
