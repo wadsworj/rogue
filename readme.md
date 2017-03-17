@@ -9,4 +9,4 @@ Tutorial 20 - Code our breadth first search algorithm
 Tutorial 21 - Solve the issue of our halls moving through walls.  
 Tutorial 22 - Connecting of all rooms together.  
 
-![Rogue](/rogue01.jpg?raw=true Rogue")
+![Rogue](rogue01.jpg)
